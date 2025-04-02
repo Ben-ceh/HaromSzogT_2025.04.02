@@ -1,0 +1,8 @@
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\bin\Debug\HaromSzog.exe.config
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\bin\Debug\HaromSzog.exe
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\bin\Debug\HaromSzog.pdb
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\obj\Debug\HaromSzog.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\obj\Debug\HaromSzog.csproj.SuggestedBindingRedirects.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\obj\Debug\HaromSzog.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\obj\Debug\HaromSzog.exe
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.04.02\HaromSzogTEST\HaromSzog\obj\Debug\HaromSzog.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromSzog", "HaromSzog\HaromSzog.csproj", "{27E4FA01-DA52-4630-AAE9-5FF8EDFA6ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HaromSzogTest", "HaromSzogTest\HaromSzogTest.csproj", "{1E5810AB-B1D4-4272-B77A-688FCE20E483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E4FA01-DA52-4630-AAE9-5FF8EDFA6ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E4FA01-DA52-4630-AAE9-5FF8EDFA6ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E4FA01-DA52-4630-AAE9-5FF8EDFA6ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E4FA01-DA52-4630-AAE9-5FF8EDFA6ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5810AB-B1D4-4272-B77A-688FCE20E483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5810AB-B1D4-4272-B77A-688FCE20E483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5810AB-B1D4-4272-B77A-688FCE20E483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5810AB-B1D4-4272-B77A-688FCE20E483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {381C8A6E-0F41-433A-8D09-57563BAF3AE3}
+	EndGlobalSection
+EndGlobal
